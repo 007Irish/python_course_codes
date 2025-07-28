@@ -1,10 +1,19 @@
-print("hello chintu")
-print("i am great")
-print("what about you?")
-print(57)
+# age = 34 #interger 
+name = "chintu" #string
+cgpa = 4.55 #float
+# In python, variables are used to store data that can be used and manipluted throughtout a program. A variable is created a moment you assign a value to it using the assingment operator (=).
+#  python is dynamically typed language.
 
-# if(a>3):
-#     hjrjefif  #this statement is inside the if statement
-# gjikfm #this statement is outside the if statement
+#  Rule of defining variables in python.
+# Variables names must start with a letter (a-z, A-Z) or an underscore (_)
+#They can contain letters, numbers and underscores.
+#Variables names are case-sensitive (age and Age are different).
+#Avoid using Python keywords (e.g. if, for, while) as variable names.
 
-# the space before the first statement is called indentation. It is used to organise the code. It is a way to tell the python program weather we are inside the block or not.
+# 34age = 4 #invalid
+age = 32 #valid
+
+# a$$ge = 69 #invaled
+# _age = 47 #valid
+a_b_c = "age" #valid
+
