@@ -29,3 +29,11 @@ o2 = average(7,8,9)
 
 print(o1)
 print(o2)
+
+def percentage(a,b,c,d):
+    e = ((a+b+c+d)/400)*100
+    
+    return e
+
+i = percentage(23,56,78,99)
+print(i)
